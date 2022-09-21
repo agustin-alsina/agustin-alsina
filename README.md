@@ -14,7 +14,7 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , Express , GitHub
+Javascript, HTML, CSS , Express , GitHub , node js, SQL , Sequelize , Postman , MVC , POO , Scrum , MySQL , API´s 
 
 
 ## Feedback
